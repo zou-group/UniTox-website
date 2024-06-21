@@ -4,7 +4,7 @@ Drug-induced toxicity is one of the leading reasons new drugs fail clinical tria
 
 We recruited clinicians to validate a random sample of our GPT-4o annotated toxicities, and UniTox's toxicity ratings concord with clinician labelers 87-96\% of the time. Finally, we benchmark a graph neural network trained on UniTox to demonstrate the utility of this dataset for building molecular toxicity prediction models.
 
-**Data is available at <span style="color:red"> TODO: add ZENODO_LINK.html</span>**
+**Data is available at https://zenodo.org/records/11627822**
 
 Below, please find our datasheet, following the model outlined in [Datasheets for Datasets (Gebru et al. 2018)](https://arxiv.org/abs/1803.09010)
 
